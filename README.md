@@ -1,4 +1,17 @@
+
+
 # README - Comunicação Segura entre Cliente e Servidor
+
+## RA dos Integrantes
+
+Este projeto foi desenvolvido pelos seguintes alunos:
+
+- **Amanda Vitoria Miranda** - RA: 082200009
+- **Lucas da Silva Lima** - RA: 082200002
+- **Lucas Tavares Loiola** - RA: 082200038
+- **Milena Moraes de Oliveira** - RA: 082200037
+
+---
 
 ## Descrição do Projeto
 
@@ -62,22 +75,5 @@ A função `diffie_hellman` implementa a troca de chaves Diffie-Hellman simplifi
 ### Comunicação via Socket
 
 A comunicação entre o cliente e o servidor é realizada através de **sockets**. O servidor escuta na porta `1300`, enquanto o cliente se conecta ao servidor e troca mensagens criptografadas.
-
----
-
-## RA dos Integrantes
-
-Este projeto foi desenvolvido pelos seguintes alunos:
-
-- **Amanda Vitoria Miranda** - RA: 082200009
-- **Lucas da Silva Lima** - RA: 082200002
-- **Lucas Tavares Loiola** - RA: 082200038
-- **Milena Moraes de Oliveira** - RA: 082200037
-
----
-
-## Licença
-
-Este projeto está disponível sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
 
 ---
