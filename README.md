@@ -6,10 +6,10 @@
 
 Este projeto foi desenvolvido pelos seguintes alunos:
 
-- **Amanda Vitoria Miranda** - RA: 082200009
-- **Lucas da Silva Lima** - RA: 082200002
-- **Lucas Tavares Loiola** - RA: 082200038
-- **Milena Moraes de Oliveira** - RA: 082200037
+- **Amanda Vitoria Miranda** - RA: 082200009 (https://github.com/amandavmiranda)
+- **Lucas da Silva Lima** - RA: 082200002 (https://github.com/LucasLima73)
+- **Lucas Tavares Loiola** - RA: 082200038 (https://github.com/LucasTavares3)
+- **Milena Moraes de Oliveira** - RA: 082200037 (https://github.com/mimoraess)
 
 ---
 
